@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.egg-info/
+*.env
+.env
+venv/
+venv*/
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+*.h5
+*.ckpt
+*.pb
+
+# Logs
+logs/
+*.log
+
+# Redis / Docker volumes
+redis_data/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Mac OS / Linux
+.DS_Store
+*.swp
+*.swo
+
+# Docker
+docker-compose.override.yml
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/

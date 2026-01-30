@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+pandas
+numpy
+scikit-learn
+pyspark
+redis
+psycopg2-binary
